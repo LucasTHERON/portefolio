@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, p{
+  color: #fff;
+}
+
+.main-container{
+  width: 100vw;
+  height: 100vh;
+}
+
+.accueil{
+  background-color: rgb(132, 132, 215);
+}
+
+.competences{
+  background-color: rgb(133, 223, 133);
+}
+
+.projets{
+  background-color: rgb(43, 43, 43);
+}
